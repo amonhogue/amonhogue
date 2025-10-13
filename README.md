@@ -26,4 +26,6 @@ Python · Ansible · Nornir · Netmiko/NAPALM · Jinja2 · Pandas
 Cisco **Catalyst Center** & **Meraki** APIs · **Ubiquiti UniFi/UISP** APIs · **Webex** REST/Webhooks  
 GitHub Actions · pytest · pre-commit · Wireshark
 
-📁 **Portfolio:** https://github.com/amonhogue/portfolio
+🔗 **GitHub Portfolio:** [amonhogue](https://github.com/amonhogue)
+
+
